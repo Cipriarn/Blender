@@ -7,4 +7,4 @@ Bienvenue dans ce dépôt GitHub regroupant mes projets de modélisation 3D :
 
 
 
-![Aperçu chambre low-poly](images/chambre-apercu.png)
+![Aperçu chambre low-poly](https://github.com/Cipriarn/Blender/blob/main/Chambre%20low-poly/Chambre.png)
